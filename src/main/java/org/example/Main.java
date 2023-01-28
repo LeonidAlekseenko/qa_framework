@@ -11,5 +11,6 @@ public class Main {
         WebDriver driver = new ChromeDriver();
 
         driver.get("https://www.selenium.dev/selenium/web/web-form.html");
+        System.out.println("hello");
     }
 }
